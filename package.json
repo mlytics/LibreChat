@@ -119,6 +119,7 @@
     "axios": "1.8.2",
     "elliptic": "^6.6.1",
     "form-data": "^4.0.4",
+    "mongoose": "^8.24.7",
     "mdast-util-gfm-autolink-literal": "2.0.0",
     "remark-gfm": {
       "mdast-util-gfm-autolink-literal": "2.0.0"
